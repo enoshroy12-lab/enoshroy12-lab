@@ -3,7 +3,7 @@ Name:
 Enosh Roy Gudimitla
 
 Role:
-Computer Science Engineering Student | Full-Stack Web Developer | AI Enthusiast
+Computer Science Engineering Student| AI Enthusiast
 
 Education:
 B.Tech in Computer Science & Engineering
@@ -16,17 +16,13 @@ Tech Stack:
 HTML
 CSS
 JavaScript
-React
-Node.js
-Express.js
-MongoDB
 Git
 GitHub
 C
 C++
 Python
 AI Tools
-Inkscape
+
 
 Currently Learning:
 • Data Structures & Algorithms (C++)
@@ -48,17 +44,13 @@ Achievements:
 LinkedIn:
 https://linkedin.com/in/enosh-roy-gudimitla
 
-Portfolio:
-https://enosh.dev
-(Replace with your final portfolio URL if different.)
 
-GitHub:
-[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/enoshroy12-lab/)
 
-Email:
-YOUR_EMAIL_ADDRESS : enoshroy12@gmail.com
+GitHub: https://github.com/enoshroy12-lab/
 
-Social Links (Optional):
+Email: enoshroy12@gmail.com
+
+Social Links:
 LinkedIn  : https://www.linkedin.com/in/enosh-roy-gudimitla
 <!--
 **enoshroy12-lab/enoshroy12-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
